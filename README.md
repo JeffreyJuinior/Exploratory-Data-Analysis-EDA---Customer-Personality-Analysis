@@ -67,7 +67,13 @@ Melakukan segmentasi customer agar pemasaran tepat sasaran
 
 #### 1. Bagaimana pengaruh kelompok umur terhadap customer dalam berbelanja melalui web? 
 
+![img1](Screenshot/1. Web Comparison.PNG)
 
+Insight:
+Customer yang belanja secara online lebih loyal dibandingkan yang langsung belanja di Toko.
+
+Source :
+https://www.candyindustry.com/articles/90056-online-grocery-shoppers-more-loyal-to-brands-stores-than-in-store-shoppers
 
 
 
