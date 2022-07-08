@@ -203,7 +203,8 @@ https://smallbusiness.chron.com/benefits-driedfish-retailing-16080.html
 
 ### 7. Item ikan cocok untuk customer yang seperti apa?
 
-https://github.com/JeffreyJuinior/Exploratory-Data-Analysis-EDA---Customer-Personality-Analysis/blob/main/Screenshot/7.%20Spent%20on%20Fish.PNG
+
+![](https://github.com/JeffreyJuinior/Exploratory-Data-Analysis-EDA---Customer-Personality-Analysis/blob/main/Screenshot/7.%20Spent%20on%20Fish.PNG)
 
 Insight :
 
