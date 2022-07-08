@@ -67,7 +67,7 @@ Melakukan segmentasi customer agar pemasaran tepat sasaran
 
 #### 1. Bagaimana pengaruh kelompok umur terhadap customer dalam berbelanja melalui web? 
 
-![](Screenshot/1. Web Comparison.PNG)
+![](https://github.com/JeffreyJuinior/Exploratory-Data-Analysis-EDA---Customer-Personality-Analysis/blob/main/Screenshot/1.%20Web%20Comparison.PNG)
 
 Insight:
 Customer yang belanja secara online lebih loyal dibandingkan yang langsung belanja di Toko.
