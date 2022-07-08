@@ -157,4 +157,69 @@ Font-i-Furnols, M. and Guerrero, L., 2014. Consumer preference, behavior and per
 
 ### 5. Item emas cocok untuk customer yang seperti apa? 
 
+![](https://github.com/JeffreyJuinior/Exploratory-Data-Analysis-EDA---Customer-Personality-Analysis/blob/main/Screenshot/5.%20Spent%20on%20Gold.PNG)
+
+Insight :
+
+Dapat dilihat dari kelompok umur bahwa senior age memiliki potensi karena  memiliki higher spent yang besar pada pembelian emas.
+
+Banyak nya pembeli emas pada senior age dapat dikarenakan emas merupakan investasi yang paling aman di berbagai kondisi krisis ekonomi seperti yang terjadi pada tahun 1998 dan tahun 2008.
+
+Source:
+https://www.cnbc.com/id/38961269
+
+Recomendation :
+
+Tim marketing dapat memberikan campaign bahwa emas yang dibeli melalui toko ini nantinya dapat juga digunakan untuk pembelian produk lain yang tersedia di toko ini, sehingga dapat menaikkan minat customer untuk membeli emas dan pembelian jenis produk lainnya di toko ini. 
+Tim marketing juga dapat memberikan semacam undian, dimana pada pembelian item tertentu dengan minimal belanja, pembeli dapat memiliki kesempatan mendapatkan hadiah emas. Sehingga cara ini dapat membuat customer sering melakukan pengecekan item mana yang berhadiah emas.
+Seperti pada analisis sebelumnya karena wine dan daging banyak disukai oleh customer senior age maka tim marketing dapat memberikan campaign undian pada item tersebut.
+
+Source : 
+https://hypeinsight.com/leveraging-gold-as-an-investment-in-your-marketing-campaigns/
+
+### 6. Item buah cocok untuk customer yang seperti apa?
+
+![](https://github.com/JeffreyJuinior/Exploratory-Data-Analysis-EDA---Customer-Personality-Analysis/blob/main/Screenshot/6.%20Spent%20on%20Fruit.PNG)
+
+Insight :
+
+Dapat dilihat dari kelompok umur bahwa senior age memiliki potensi karena  memiliki higher spent yang besar pada pembelian item jenis buah.
+
+Banyaknya customer senior membeli buah karena dikutip dari nidirect.gov.uk bahwa semakin bertambahnya usia maka metabolisme makin berkurang sehingga dianjurkan untuk memakan makanan yang rendah kalori dan tinggi nutrisi seperti buah.
+
+Source :
+https://www.nidirect.gov.uk/articles/healthy-eating-older-adults#:~:text=Eating%20five%20or%20more%20portions,and%20are%20low%20in%20fat.
+
+Recomendation :
+
+Tim marketing dapat menampilkan detail dari kandungan kalori dan nutrisi serta manfaat dari buah tersebut. Detail terkait buah dapat ditaruh di samping buah.
+
+Kurangnya pengetahuan dalam mengolah buah untuk dimasak dapat dimanfaatkan tim marketing dengan membuat kelas memasak saat weekdays bagi customer senior age seperti membuat salad atau jus. Hal ini dikarenakan senior age banyak menghabiskan waktu bersama keluarga sehingga pengetahuan memasak dapat diimplementasikan saat berkumpul bersama keluarga.
+
+Tim marketing juga mempromosikan bahwa buah segar yang digunakan pada kelas memasak tersedia di toko ini.
+
+Source :
+https://smallbusiness.chron.com/benefits-driedfish-retailing-16080.html
+
+### 7. Item ikan cocok untuk customer yang seperti apa?
+
+https://github.com/JeffreyJuinior/Exploratory-Data-Analysis-EDA---Customer-Personality-Analysis/blob/main/Screenshot/7.%20Spent%20on%20Fish.PNG
+
+Insight :
+
+Dapat dilihat dari kelompok umur bahwa adult dan senior age memiliki potensi karena  memiliki higher spent yang besar pada pembelian item jenis ikan.
+
+Dikutip dari maplewoodseniorlivin.com banyaknya orang di usia senja mengonsumsi ikan dikarenakan banyaknya terkandung asam lemak omega 3 yang berkhasiat untuk mengurangi peradangan sendi, mengurangi risiko depresi, ADHD, serta diabetes.
+
+Source :
+https://www.maplewoodseniorliving.com/blog/how-eating-fish-keeps-seniors-healthy-maplewood/#:~:text=Fish%20Help%20You%20Have%20a%20Healthy%20Heart&text=These%20omega%2D3%20fatty%20acids,types%20of%20dementia%2C%20and%20diabetes.
+
+Recomendation :
+
+Tim marketing dapat mengadakan festival seafood seperti THE DORSET SEAFOOD FESTIVAL di UK dengan mengundang chef terkenal untuk merepresentasikan masakan berbahan ikan, acara musik, dan tempat bersantai yang nyaman sebagai daya tarik pengunjung. Pada festival tersebut, tim marketing dapat menyampaikan bahwa Ikan segar yang digunakan tersedia di toko ini.
+
+Source :
+https://www.dorsetseafood.co.uk/News/82/SEAFEAST_%E2%80%93_The_Dorset_Seafood_Festival/
+
+
 
