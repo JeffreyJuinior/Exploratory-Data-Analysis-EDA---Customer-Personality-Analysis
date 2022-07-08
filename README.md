@@ -14,6 +14,8 @@ Manfaat segmentasi pelanggan dalam pemasaran adalah kita dapat menargetkan orang
 Source :
 https://www.emerald.com/insight/content/doi/10.1108/SJME-06-2019-0036/full/pdf
 
+Sehingga segmentasi pada pelanggan e-commerce dapat dilakukan agar pemasaran yang dilakukan lebih efisien dan efektif
+
 ## Define Problem
 
 Menambah customer dengan melakukan segmentasi berdasarkan perilaku
