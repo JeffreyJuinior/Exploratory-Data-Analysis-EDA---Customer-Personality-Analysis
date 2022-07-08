@@ -75,8 +75,42 @@ Customer yang belanja secara online lebih loyal dibandingkan yang langsung belan
 Source :
 https://www.candyindustry.com/articles/90056-online-grocery-shoppers-more-loyal-to-brands-stores-than-in-store-shoppers
 
+Dapat dilihat pada pie chart visit web total bahwa Customer middle age merupakan pengunjung web terbanyak yaitu sebanyak 58.13% dari total customer.
+Dari tempat pembelian item berdasarkan kategori umur juga, Middle age merupakan pembeli melalui web terbanyak yaitu sebesar 33.85%. Sehingga customer Middle age merupakan customer yang paling potensial dalam pembelian item melalui web.
+
+Recomendation :
+
+Tim marketing dapat memberikan promo dalam pembelian item terhadap pengguna baru aplikasi, campaign tersebut dapat disebarkan melalui ads sosial media dengan target umur middle age yaitu 31-50 tahun.
+
+Salah satunya adalah melalui ads instagram, tim marketing dapat mengadakan giveaway untuk mendapatkan lebih banyak customer. Dikutip dari jmango360.com akun instagram yang melakukan giveaway cenderung mengalami pertumbuhan follower 70% lebih cepat dalam 3 bulan.
+
+Source :
+https://jmango360.com/blog/11-app-marketing-ideas-ecommerce-stores/
+
+#### 2. Item wines cocok untuk customer yang seperti apa?
+
+![](https://github.com/JeffreyJuinior/Exploratory-Data-Analysis-EDA---Customer-Personality-Analysis/blob/main/Screenshot/2.%20Spent%20on%20Wine.PNG)
+
+Insight :
+
+Dapat dilihat dari kelompok umur bahwa senior age memiliki potensi karena 62% memiliki higher spent pada pembelian wines.
+
+Recomendation :
+
+Faktanya wine memiliki khasiat untuk senior age, dikutip dari thesummitretirement.com beberapa khasiat wine yaitu adalah menurunkan risiko penyakit alzheimer, mengurangi peluang terkena kanker,dan mengurangi peradangan dalam tubuh dengan kadar secukupnya yaitu 2 gelas sehari.
+
+Source :
+https://www.thesummitretirement.com/senior-retirement-blog/what-are-the-benefits-of-drinking-red-wine-for-seniors/
+
+Sehingga tim marketing dapat membuat campaign berisi khasiat dari wines untuk senior age dan dapat dipasarkan di panti jompo, seperti sage home care yang membolehkan penghuni untuk meminum wine dengan kadar yang cukup dan merupakan jenis wine yang aman dikonsumsi untuk usia senja seperti Pinot Noir, Rose, Merlot, atau Malbec yang dapat dibeli di toko ini.
+
+Source :
+https://www.sagehomecare.com/a-senior-adults-cheatsheet-for-healthy-wines
+
+#### 3. Item permen cocok untuk customer yang seperti apa? 
 
 
+![](https://github.com/JeffreyJuinior/Exploratory-Data-Analysis-EDA---Customer-Personality-Analysis/blob/main/Screenshot/2.%20Spent%20on%20Wine.PNG)
 
 
 
