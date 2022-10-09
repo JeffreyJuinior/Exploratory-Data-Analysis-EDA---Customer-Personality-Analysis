@@ -1,5 +1,6 @@
 # Exploratory-Data-Analysis-EDA---Customer-Personality-Analysis
 by : Jeffrey Junior T
+Visualization : https://public.tableau.com/views/CustomerPersonalityAnalysisVisualization/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## Latar Belakang
 
